@@ -1,10 +1,49 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset=utf-8 />
-<title>JS Bin</title>
-</head>
-<body>
-  <p>stuff</p>
-</body>
+	<head>
+		<meta charset=utf-8 />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<title>Danny Hope – UX Design</title>
+		<link rel="SHORTCUT ICON" href="images/website.ico" />
+		<link rel="stylesheet" href="style/style.css">
+	</head>
+	<body>
+		<script>
+		   (function(w, d, t, k) {
+		     w[k] = function (g) {
+		       if (!g[k]) return;
+		       d.body.className += ' ' + g[k].toLowerCase(); 
+		     };
+		     var e = d.createElement(t),
+		         s = d.getElementsByTagName(t)[0];
+		     e.src = 'http://freegeoip.net/json/?callback=' + k;
+		     s.parentNode.insertBefore(e, s);
+		   }(this, document, 'script', 'country_code'));
+		 </script>
+ 		<div>
+			<h1>Danny Hope</h1>
+			<h2 class="what-i-do">User Experience Design</h2>
+			<ul>
+				<li><a href="http://dl.dropboxusercontent.com/u/135578/dannyhope.co.uk/project-stories/index.html">Read project stories</a> describing how I&nbsp;work</li>
+				<li>Interested in working together? Give&nbsp;me a&nbsp;call: <a href="tel:07595226792"><span class="not-gb">+44 (</span>0<span class="not-gb">) </span>7595 226 792</a></li>
+			</ul>
+			<p>I’m currently helping Brighton and London startups develop their products (and setting-up UX&nbsp;Brighton&nbsp;2013&nbsp;too).</p>
+			<footer>
+			<h2>Other ways to get in touch</h2>
+			<ul class="contact">
+				<li><a href="callto:dannyhope">skype:dannyhope</a></li>
+				<li><a href="mailto:danny.hope@gmail.com">danny.hope@gmail.com</a></li>
+			</ul>
+				<ul>
+					<li><a href="blog/index.html">Blog</a></li>
+					<li class="desktop">	<a href="http://twitter.com/yandle">Twitter</a></il>
+					<li class="mobile">		<a href="http://mobile.twitter.com/yandle">Twitter</a></il>
+					<li class="desktop">	<a href="http://flickr.com/photos/yandle/">Flickr</a></li>
+					<li class="mobile">		<a href="http://m.flickr.com/photos/yandle/">Flickr</a></li>
+					<li class="desktop">	<a href="http://www.linkedin.com/in/dannyhope">LinkedIn</a></li>
+					<li class="mobile">		<a href="https://touch.www.linkedin.com/#profile/5217406/">LinkedIn</a></li>
+				</ul>
+			</footer>
+		</div>
+	</body>
 </html>
