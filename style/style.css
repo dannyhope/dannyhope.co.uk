@@ -78,7 +78,7 @@ ul.contact {
 		}
 	html {
 		background-image: none !important;
-		background-color: #000;
+		background-color: #fff77a;
 		}
 	div {
 		width: inherit;
@@ -106,9 +106,6 @@ ul.contact {
 		display: inline-block;
 		}
 	footer {
-		background-color: black;
-		outline: 1rem solid black;
-		margin-bottom: -1rem;
-		padding-top: -1rem;
+		border-top: 1px solid rgba(0,0,0,0.25);
 	}
 }
