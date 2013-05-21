@@ -1,5 +1,5 @@
 html {
-	background: url(../images/paper-prototyping.jpg) no-repeat center center fixed;
+	background: url(../style/images/paper-prototyping.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -113,8 +113,8 @@ li {
 		display: none;
 		}
 	footer ul {
-	margin-left: 0;
-}
+		margin-left: 0;
+		}
 	footer li.mobile {
 		display: inline-block;
 		}
