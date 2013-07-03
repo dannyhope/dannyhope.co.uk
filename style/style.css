@@ -36,6 +36,9 @@ h2 {
 	font-size: 1rem;
 	margin-top: 2rem;
 	}
+
+/* @group what-i-do */
+
 h2.what-i-do {
 	text-transform: uppercase;
 	font-size: 1rem;
@@ -43,6 +46,14 @@ h2.what-i-do {
 	letter-spacing: 0.1rem;
 	margin-bottom: 4vw;
 	}
+h2.what-i-do a {
+	color: rgba(50,0,0,0.5);
+	text-decoration: ;
+}
+
+
+/* @end */
+
 p, li {
 	line-height: 2;
 	}
