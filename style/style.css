@@ -6,10 +6,6 @@ html {
 	background-size: cover;
 	font-family: "Helvetica Neue", Arial, sans-serif;
 	font-weight: 300;
-	-webkit-filter: brightness(90%) saturate(162%);
-	   -moz-filter: brightness(90%) saturate(162%);
-	     -o-filter: brightness(90%) saturate(162%);
-	    -ms-filter: brightness(90%) saturate(162%);
 	}
 body {
 	padding: 0;
