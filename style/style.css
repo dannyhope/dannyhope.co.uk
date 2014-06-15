@@ -122,6 +122,12 @@ ul.call-to-action {
 		margin-bottom: 2rem;
 		}
 	.desktop,
+	footer {
+		margin-top: 3rem;
+		background-color: rgb(208,208,100);
+		padding: 1rem;
+	}
+	.desktop,
 	footer li.desktop {
 		display: none;
 		}
@@ -131,8 +137,10 @@ ul.call-to-action {
 	footer li.mobile {
 		display: inline-block;
 		}
-	footer {
-		border-top: 1px solid rgba(0,0,0,0.25);
-		margin-top: 3rem;
+	footer a {
+		color: rgb(251,255,129);
+		font-weight: 500;
+		letter-spacing: 0.05rem;
+		text-decoration: none;
 	}
 }
