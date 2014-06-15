@@ -1,22 +1,22 @@
 html {
 	background: url(images/paper-prototyping.jpg) no-repeat fixed center center;
 	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
+	   -moz-background-size: cover;
+	     -o-background-size: cover;
 	background-size: cover;
 	font-family: "Helvetica Neue", Arial, sans-serif;
 	font-weight: 300;
 	-webkit-filter: brightness(90%) saturate(162%);
-	-moz-filter: brightness(90%) saturate(162%);
-	-o-filter: brightness(90%) saturate(162%);
-	-ms-filter: brightness(90%) saturate(162%);
+	   -moz-filter: brightness(90%) saturate(162%);
+	     -o-filter: brightness(90%) saturate(162%);
+	    -ms-filter: brightness(90%) saturate(162%);
 	}
 body {
 	padding: 0;
 	margin: 0;
 	}
 div {
-	background-color: #fff77a;
+	background-color: rgb(250,255,120);
 	margin: 4vw;
 	padding: 4vw;
 	width: 38%;
