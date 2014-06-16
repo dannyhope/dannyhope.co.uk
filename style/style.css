@@ -29,8 +29,6 @@ h1 {
 	margin-bottom: 2.5rem;
 	max-width: 0;
 	color: rgb(177,174,81);
-
-/*force wrap*/
 	}
 h2 {
 	font-size: 1rem;
@@ -40,19 +38,18 @@ h2 {
 /* @group what-i-do */
 
 h2.what-i-do {
-text-transform: uppercase;
-font-size: 0.85rem;
-color: rgb(177, 174, 81);
-letter-spacing: 0.05rem;
-margin-bottom: 4vw;
-font-weight: 400;
-line-height: 1.8;
+	text-transform: uppercase;
+	font-size: 0.85rem;
+	color: rgb(177, 174, 81);
+	letter-spacing: 0.05rem;
+	margin-bottom: 4vw;
+	font-weight: 400;
+	line-height: 1.8;
 }
 h2.what-i-do a {
 	color: rgb(177,174,81);
 	text-decoration: ;
-}
-
+	}
 
 /* @end */
 
@@ -83,13 +80,13 @@ footer li.mobile {
 ul.contact {
 	list-style-type: none;
 	padding-left: 0;
-}
+	}
 ul.call-to-action {
 	margin-left: 2rem;
-}
+	}
 .call-to-action li {
 	margin-bottom: 0.5rem;
-}
+	}
 @media screen and (max-width: 435px) {
 	p, li {
 		line-height: 1.5;
@@ -111,7 +108,7 @@ ul.call-to-action {
 		background: #0097ff;
 		color: #fefffe;
 		text-decoration: none;
-		font-weight: normal;
+		font-weight: 400;
 		display: block;
 		padding: 0.5rem;
 		text-align: center;
@@ -125,7 +122,7 @@ ul.call-to-action {
 		margin-top: 3rem;
 		background-color: rgb(208,208,100);
 		padding: 1rem;
-	}
+		}
 	.desktop,
 	footer li.desktop {
 		display: none;
@@ -141,13 +138,13 @@ ul.call-to-action {
 		font-weight: 500;
 		letter-spacing: 0.05rem;
 		text-decoration: none;
-	}
+		}
 		footer a:hover {
 			position: relative;
 			top: -1px;
 			color: white;
-		}
+			}
 		footer a:active {
 			top: 0;
-		}
+			}
 }
