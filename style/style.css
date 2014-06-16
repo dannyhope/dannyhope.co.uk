@@ -19,7 +19,7 @@ div {
 	float: right;
 	max-width: 40rem;
 	min-width: 383px;
-	box-shadow: 0px 1rem 3rem rgba(0,0,0,0.5);
+	box-shadow: 0px 0rem 5rem rgba(16,0,32,0.5);
 }
 h1 {
 	font-weight: bold;
@@ -29,6 +29,7 @@ h1 {
 	margin-bottom: 2.5rem;
 	max-width: 0;
 	color: rgb(177,174,81);
+	text-align: center;
 	}
 h2 {
 	font-size: 1rem;
@@ -56,21 +57,48 @@ p, li {
 a {
 	white-space: nowrap;
 	}
+p.call-to-action {
+	font-size: 1.2rem;
+	}
 a[href^="tel"] {
 	color: black;
 	text-decoration: none;
-	font-weight: 500;
+	font-weight: 300;
+	font-size: 0.95rem;
 	}
-footer ul {
-	padding: 0 0 0 0;
+
+footer {
+	background-color: rgb(208,208,100);
+	padding: 1rem;
+	font-weight: bold;
 	}
-footer li {
-	display: inline-block;
-	margin-right: 1rem;
-	}
-footer li.mobile {
-	display: none;
-	}
+	footer a {
+		color: rgb(251,255,129);
+		font-weight: 500;
+		letter-spacing: 0.05rem;
+		text-decoration: none;
+		}
+		footer a:hover {
+			position: relative;
+			top: -1px;
+			color: white;
+			}
+		footer ul li a:active {
+			top: 0;
+			}
+		footer ul li a:visited {
+			color: white;
+			}
+	footer ul {
+		padding: 0 0 0 0;
+		}
+		footer ul li {
+			display: inline-block;
+			margin-right: 1rem;
+			}
+			footer ul li.mobile {
+				display: none;
+				}
 .gb .not-gb {
 	display: none;
 	}
@@ -84,13 +112,16 @@ ul.call-to-action {
 .call-to-action li {
 	margin-bottom: 0.5rem;
 	}
+
+
+
 @media screen and (max-width: 435px) {
 	p,
 	li {
 		line-height: 1.5;
 		}
 	html {
-		background-image: none !important;
+		background-image: none;
 		background-color: rgb(251,255,129);
 		}
 	div {
@@ -103,8 +134,8 @@ ul.call-to-action {
 		font-size: 4rem;
 		}
 	a[href^="tel"] {
-		background: #0097ff;
-		color: #fefffe;
+		background: #0097ff;				/* blue */
+		color: white;						/* white */
 		text-decoration: none;
 		font-weight: 400;
 		display: block;
@@ -116,10 +147,7 @@ ul.call-to-action {
 		margin-bottom: 2rem;
 		}
 	footer {
-		margin-top: 5rem;
-		background-color: rgb(208,208,100);
-		padding: 1rem;
-		font-weight: bold;
+		margin-top: 2rem;
 		}
 	.desktop,
 	footer li.desktop {
@@ -131,18 +159,4 @@ ul.call-to-action {
 	footer li.mobile {
 		display: inline-block;
 		}
-	footer a {
-		color: rgb(251,255,129);
-		font-weight: 500;
-		letter-spacing: 0.05rem;
-		text-decoration: none;
-		}
-		footer a:hover {
-			position: relative;
-			top: -1px;
-			color: white;
-			}
-		footer a:active {
-			top: 0;
-			}
 }
