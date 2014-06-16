@@ -61,7 +61,6 @@ p, li {
 	}
 a {
 	white-space: nowrap;
-	color: #0097ff;
 	}
 a[href^="tel"] {
 	color: black;
