@@ -30,7 +30,6 @@ h1 {
 	color: rgb(177,174,81);
 	text-align: center;
 	}
-
 /* @group what-i-do */
 h2.what-i-do {
 	text-align: center;
@@ -47,7 +46,6 @@ h2.what-i-do a {
 	color: rgb(177,174,81);
 	}
 /* @end */
-
 p,
 li {
 	line-height: 2;
@@ -67,7 +65,6 @@ p.call-to-action {
 		font-weight: 500;
 		font-size: 0.8em;
 		}
-
 footer {
 	background-color: rgb(208,208,100);
 	padding: 1rem;
@@ -111,48 +108,49 @@ ul.contact {
 ul.call-to-action {
 	margin-left: 2rem;
 	}
-.call-to-action li {
-	margin-bottom: 0.5rem;
-	}
-
-
+	ul.call-to-action li {
+		margin-bottom: 0.5rem;
+		}
+	
+	
+	
+	
 
 @media screen and (max-width: 435px) {
-	p,
-	li {
-		line-height: 1.5;
-		}
 	html {
-		background-image: none;
-		background-color: rgb(251,255,129);
+		background: rgb(208,208,100);
 		}
 	div {
 		width: inherit;
 		margin: 0;
-		box-shadow: none;
 		min-width: 1px;
+		box-shadow: none;
 		}
 	h1 {
+		padding-top: 2rem;
+		margin: 0;
 		font-size: 4rem;
 		}
-	p.call-to-action a[href^="tel"] {
-		background: #0097ff;				/* blue */
-		color: white;						/* white */
-		text-decoration: none;
-		font-weight: 400;
-		display: block;
-		padding: 0.5rem;
-		text-align: center;
-		border-radius: 0.5rem;
-		margin-right: 5rem;
-		margin-top: 1.5rem;
-		margin-bottom: 2rem;
+	p.call-to-action {
+		margin: 0;
 		}
+		p.call-to-action a[href^="tel"] {
+			background: #0097ff;				/* blue */
+			color: white;						/* white */
+			text-decoration: none;
+			font-weight: 400;
+			display: block;
+			padding: 0.5rem;
+			text-align: center;
+			border-radius: 0.5rem;
+			margin: 1.5rem auto 2rem auto;
+			width: 12rem;
+			}
 	footer {
 		margin-top: 2rem;
 		}
 	.desktop,
-	footer li.desktop {
+	footer ul li.desktop {
 		display: none;
 		}
 	footer ul {
