@@ -36,7 +36,6 @@ h2 {
 	}
 
 /* @group what-i-do */
-
 h2.what-i-do {
 	text-transform: uppercase;
 	font-size: 0.85rem;
@@ -45,12 +44,10 @@ h2.what-i-do {
 	margin-bottom: 4vw;
 	font-weight: 400;
 	line-height: 1.8;
-}
+	}
 h2.what-i-do a {
 	color: rgb(177,174,81);
-	text-decoration: ;
 	}
-
 /* @end */
 
 p, li {
@@ -88,12 +85,13 @@ ul.call-to-action {
 	margin-bottom: 0.5rem;
 	}
 @media screen and (max-width: 435px) {
-	p, li {
+	p,
+	li {
 		line-height: 1.5;
 		}
 	html {
 		background-image: none !important;
-		background-color: #fff77a;
+		background-color: rgb(251,255,129);
 		}
 	div {
 		width: inherit;
@@ -117,11 +115,11 @@ ul.call-to-action {
 		margin-top: 1.5rem;
 		margin-bottom: 2rem;
 		}
-	.desktop,
 	footer {
-		margin-top: 3rem;
+		margin-top: 5rem;
 		background-color: rgb(208,208,100);
 		padding: 1rem;
+		font-weight: bold;
 		}
 	.desktop,
 	footer li.desktop {
