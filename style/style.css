@@ -58,14 +58,14 @@ a {
 	white-space: nowrap;
 	}
 p.call-to-action {
-	font-size: 1.37rem;
+	font-size: 1.4rem;
 	line-height: 1.4;
 	}
 	p.call-to-action a[href^="tel"] {
 		color: rgba(0,0,0,0.8);
 		text-decoration: none;
 		font-weight: 500;
-		font-size: 0.85em;
+		font-size: 0.8em;
 		}
 
 footer {
