@@ -15,7 +15,7 @@ div {
 	background-color: rgb(250,255,120);
 	margin: 4vw;
 	padding: 4vw;
-	width: 38%;
+	width: 48%;
 	float: right;
 	max-width: 40rem;
 	min-width: 383px;
@@ -58,14 +58,15 @@ a {
 	white-space: nowrap;
 	}
 p.call-to-action {
-	font-size: 1.2rem;
+	font-size: 1.37rem;
+	line-height: 1.4;
 	}
-a[href^="tel"] {
-	color: black;
-	text-decoration: none;
-	font-weight: 300;
-	font-size: 0.95rem;
-	}
+	p.call-to-action a[href^="tel"] {
+		color: rgba(0,0,0,0.8);
+		text-decoration: none;
+		font-weight: 500;
+		font-size: 0.85em;
+		}
 
 footer {
 	background-color: rgb(208,208,100);
