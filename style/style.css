@@ -130,33 +130,18 @@ ul.call-to-action {
     font-weight: normal;
     font-style: normal;
 }
-footer ul.elsewhere {
-	padding: 0;
+footer li {
+	font-family: 'LigatureSymbols';
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	   -moz-font-smoothing: antialiased;
+	    -ms-font-smoothing: antialiased;
+	     -o-font-smoothing: antialiased;
+	    	font-smoothing: antialiased;
+	display: inline;
+	font-size: 36px;
+	padding: 0rem 1rem;
 }
-	footer ul.elsewhere li {
-	  font-family: 'LigatureSymbols';
-	  text-rendering: optimizeLegibility;
-	  -webkit-font-smoothing: antialiased;
-		 -moz-font-smoothing: antialiased;
-		  -ms-font-smoothing: antialiased;
-		   -o-font-smoothing: antialiased;
-			  font-smoothing: antialiased;
-	  display: inline;
-	  font-size: 36px;
-	  padding: 0rem 1rem;
-	}
-		footer ul.elsewhere li:first-child {
-			padding-left: 0;
-		}
-		footer ul.elsewhere li:last-child {
-			padding-right: 0;
-		}
-		footer ul.elsewhere li a {
-			text-decoration: none;
-		}
-		footer ul.elsewhere li a:hover {
-			color: red;
-		}
 
 
 
