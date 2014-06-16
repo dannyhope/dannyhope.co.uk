@@ -50,7 +50,8 @@ h2.what-i-do a {
 	}
 /* @end */
 
-p, li {
+p,
+li {
 	line-height: 2;
 	}
 a {
