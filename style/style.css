@@ -134,7 +134,7 @@ ul.call-to-action {
 	h1 {
 		font-size: 4rem;
 		}
-	a[href^="tel"] {
+	p.call-to-action a[href^="tel"] {
 		background: #0097ff;				/* blue */
 		color: white;						/* white */
 		text-decoration: none;
