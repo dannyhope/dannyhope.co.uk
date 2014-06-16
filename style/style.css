@@ -13,35 +13,33 @@ body {
 	}
 div {
 	background-color: rgb(250,255,120);
-	margin: 4vw;
-	padding: 4vw;
-	width: 48%;
-	float: right;
-	max-width: 40rem;
+	width: 65%;
 	min-width: 383px;
 	box-shadow: 0px 0rem 5rem rgba(16,0,32,0.5);
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 7.5rem;
 }
 h1 {
 	font-weight: bold;
-	font-size: 6rem;
+	font-size: 6.13rem;
 	line-height: 0.9;
-	margin-top: 0;
-	margin-bottom: 2.5rem;
+	margin-top: 7.5rem;
+	padding-top: 6.5rem;
+	margin-bottom: 2.6rem;
 	color: rgb(177,174,81);
 	text-align: center;
-	}
-h2 {
-	font-size: 1rem;
-	margin-top: 2rem;
 	}
 
 /* @group what-i-do */
 h2.what-i-do {
+	text-align: center;
 	text-transform: uppercase;
 	font-size: 0.8rem;
 	color: rgb(177, 174, 81);
 	letter-spacing: 0.08rem;
-	margin-bottom: 4vw;
+	margin-top: 2rem;
+	margin-bottom: 6.3rem;
 	font-weight: 400;
 	line-height: 1.8;
 	}
@@ -60,6 +58,8 @@ a {
 p.call-to-action {
 	font-size: 1.4rem;
 	line-height: 1.4;
+	text-align: center;
+	margin-bottom: 7rem;
 	}
 	p.call-to-action a[href^="tel"] {
 		color: rgba(0,0,0,0.8);
@@ -72,6 +72,7 @@ footer {
 	background-color: rgb(208,208,100);
 	padding: 1rem;
 	font-weight: bold;
+	min-height: 5.5rem;
 	}
 	footer a {
 		color: rgb(251,255,129);
