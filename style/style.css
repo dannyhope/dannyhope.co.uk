@@ -70,7 +70,11 @@ footer {
 	padding: 1rem;
 	font-weight: bold;
 	min-height: 5.5rem;
+	text-align: center;
 	}
+	footer ul {
+		margin-left: 0;
+		}
 	footer a {
 		color: rgb(251,255,129);
 		font-weight: 500;
@@ -82,15 +86,12 @@ footer {
 			top: -1px;
 			color: white;
 			}
-		footer ul li a:active {
+		footer a:active {
 			top: 0;
 			}
-		footer ul li a:visited {
+		footer a:visited {
 			color: white;
 			}
-	footer ul {
-		padding: 0 0 0 0;
-		}
 		footer ul li {
 			display: inline-block;
 			margin-right: 1rem;
@@ -112,7 +113,56 @@ ul.call-to-action {
 		margin-bottom: 0.5rem;
 		}
 	
-	
+
+
+
+
+
+
+@font-face {
+    font-family: 'LigatureSymbols';
+    src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols-2.11.eot');
+    src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.woff') format('woff'),
+         url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype'),
+         url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.svg#LigatureSymbols') format('svg');
+    src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+footer ul.elsewhere {
+	padding: 0;
+}
+	footer ul.elsewhere li {
+	  font-family: 'LigatureSymbols';
+	  text-rendering: optimizeLegibility;
+	  -webkit-font-smoothing: antialiased;
+		 -moz-font-smoothing: antialiased;
+		  -ms-font-smoothing: antialiased;
+		   -o-font-smoothing: antialiased;
+			  font-smoothing: antialiased;
+	  display: inline;
+	  font-size: 36px;
+	  padding: 0rem 1rem;
+	}
+		footer ul.elsewhere li:first-child {
+			padding-left: 0;
+		}
+		footer ul.elsewhere li:last-child {
+			padding-right: 0;
+		}
+		footer ul.elsewhere li a {
+			text-decoration: none;
+		}
+		footer ul.elsewhere li a:hover {
+			color: red;
+		}
+
+
+
+
+
+
 	
 	
 
@@ -152,11 +202,5 @@ ul.call-to-action {
 	.desktop,
 	footer ul li.desktop {
 		display: none;
-		}
-	footer ul {
-		margin-left: 0;
-		}
-	footer li.mobile {
-		display: inline-block;
 		}
 }
