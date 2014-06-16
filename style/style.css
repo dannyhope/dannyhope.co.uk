@@ -1,4 +1,5 @@
 html {
+	background-color: black;
 	background: url(images/paper-prototyping.jpg) no-repeat fixed center center;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
@@ -11,15 +12,36 @@ body {
 	padding: 0;
 	margin: 0;
 	}
+p,
+li {
+	line-height: 2;
+	}
+a {
+	white-space: nowrap;
+	}	
+.gb .not-gb {
+	display: none;
+	}
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
 div {
 	background-color: rgb(250,255,120);
 	width: 65%;
-	min-width: 383px;
+	min-width: 46rem;
+	max-width: 58rem;
 	box-shadow: 0px 0rem 5rem rgba(16,0,32,0.5);
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 7.5rem;
 }
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
 h1 {
 	font-weight: bold;
 	font-size: 6.13rem;
@@ -30,7 +52,11 @@ h1 {
 	color: rgb(177,174,81);
 	text-align: center;
 	}
-/* @group what-i-do */
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
 h2.what-i-do {
 	text-align: center;
 	text-transform: uppercase;
@@ -42,17 +68,14 @@ h2.what-i-do {
 	font-weight: 400;
 	line-height: 1.8;
 	}
-h2.what-i-do a {
-	color: rgb(177,174,81);
-	}
-/* @end */
-p,
-li {
-	line-height: 2;
-	}
-a {
-	white-space: nowrap;
-	}
+	h2.what-i-do a {
+		color: rgb(177,174,81);
+		}
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
 p.call-to-action {
 	font-size: 1.4rem;
 	line-height: 1.4;
@@ -60,22 +83,30 @@ p.call-to-action {
 	margin-bottom: 7rem;
 	}
 	p.call-to-action a[href^="tel"] {
-		color: rgba(0,0,0,0.8);
+		color: rgba(0,0,0,0.9);
 		text-decoration: none;
-		font-weight: 500;
+		font-weight: 400;
 		font-size: 0.8em;
 		}
+
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+
+
 footer {
 	background-color: rgb(208,208,100);
-	padding: 1rem;
 	font-weight: bold;
-	min-height: 5.5rem;
+	height: 7.2rem;
 	text-align: center;
+	vertical-align: middle;
 	}
 	footer ul {
-		margin-left: 0;
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
 		}
-	footer a {
+	footer a,
+	footer a:visited {
 		color: rgb(251,255,129);
 		font-weight: 500;
 		letter-spacing: 0.05rem;
@@ -89,83 +120,55 @@ footer {
 		footer a:active {
 			top: 0;
 			}
-		footer a:visited {
-			color: white;
-			}
 		footer ul li {
-			display: inline-block;
-			margin-right: 1rem;
+			font-family: 'LigatureSymbols';
+			text-rendering: optimizeLegibility;
+			-webkit-font-smoothing: antialiased;
+			   -moz-font-smoothing: antialiased;
+				-ms-font-smoothing: antialiased;
+				 -o-font-smoothing: antialiased;
+					font-smoothing: antialiased;
+			display: inline;
+			font-size: 3.4rem;
+			padding: 0rem 0.5rem;
 			}
 			footer ul li.mobile {
 				display: none;
 				}
-.gb .not-gb {
-	display: none;
-	}
-ul.contact {
-	list-style-type: none;
-	padding-left: 0;
-	}
-ul.call-to-action {
-	margin-left: 2rem;
-	}
-	ul.call-to-action li {
-		margin-bottom: 0.5rem;
-		}
-	
 
 
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
 
-
-
-@font-face {
-    font-family: 'LigatureSymbols';
-    src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols-2.11.eot');
-    src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.woff') format('woff'),
-         url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype'),
-         url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.svg#LigatureSymbols') format('svg');
-    src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-footer li {
-	font-family: 'LigatureSymbols';
-	text-rendering: optimizeLegibility;
-	-webkit-font-smoothing: antialiased;
-	   -moz-font-smoothing: antialiased;
-	    -ms-font-smoothing: antialiased;
-	     -o-font-smoothing: antialiased;
-	    	font-smoothing: antialiased;
-	display: inline;
-	font-size: 36px;
-	padding: 0rem 1rem;
-}
-
-
-
-
-
+@media screen and (max-width: 45rem) {
 
 	
-	
-
-@media screen and (max-width: 435px) {
 	html {
 		background: rgb(208,208,100);
 		}
+
+	
 	div {
 		width: inherit;
 		margin: 0;
 		min-width: 1px;
 		box-shadow: none;
 		}
+
+	
 	h1 {
 		padding-top: 2rem;
 		margin: 0;
 		font-size: 4rem;
 		}
+		
+		
+	.what-i-do { /* 	get the items to appear in a centered list */
+		width: 21rem;
+		margin: auto;
+		}
+
+	
 	p.call-to-action {
 		margin: 0;
 		}
@@ -181,11 +184,17 @@ footer li {
 			margin: 1.5rem auto 2rem auto;
 			width: 12rem;
 			}
+
+	
 	footer {
 		margin-top: 2rem;
 		}
+
+	
 	.desktop,
 	footer ul li.desktop {
 		display: none;
 		}
+
+
 }
