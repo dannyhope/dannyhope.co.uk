@@ -122,23 +122,32 @@ footer {
 			}
 		@font-face {
 			font-family: 'LigatureSymbols';
-			src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols-2.11.eot');
-			src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
-				 url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.woff') format('woff'),
-				 url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype'),
-				 url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.svg#LigatureSymbols') format('svg');
-			src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype');
+			src: url('/fonts/LigatureSymbols/LigatureSymbols-2.11.eot');
+			src: url('/fonts/LigatureSymbols/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
+				 url('/fonts/LigatureSymbols/LigatureSymbols.woff') format('woff'),
+				 url('/fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype'),
+				 url('/fonts/LigatureSymbols/LigatureSymbols.svg#LigatureSymbols') format('svg');
+			src: url('/fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype');
 			font-weight: normal;
-			font-style: normal;
+			font-style:  normal;
 			}
 		footer ul li {
 			font-family: 'LigatureSymbols';
-			text-rendering: optimizeLegibility;
+			-webkit-text-rendering: optimizeLegibility;
+			   -moz-text-rendering: optimizeLegibility;
+				-ms-text-rendering: optimizeLegibility;
+				 -o-text-rendering: optimizeLegibility;
+					text-rendering: optimizeLegibility;
 			-webkit-font-smoothing: antialiased;
 			   -moz-font-smoothing: antialiased;
 				-ms-font-smoothing: antialiased;
 				 -o-font-smoothing: antialiased;
 					font-smoothing: antialiased;
+			-webkit-font-feature-settings: "liga" 1, "dlig" 1;
+			   -moz-font-feature-settings: "liga=1, dlig=1";
+				-ms-font-feature-settings: "liga" 1, "dlig" 1;
+				 -o-font-feature-settings: "liga" 1, "dlig" 1;
+					font-feature-settings: "liga" 1, "dlig" 1;
 			display: inline;
 			font-size: 3.4rem;
 			padding: 0rem 0.5rem;
