@@ -120,6 +120,17 @@ footer {
 		footer a:active {
 			top: 0;
 			}
+		@font-face {
+			font-family: 'LigatureSymbols';
+			src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols-2.11.eot');
+			src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
+				 url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.woff') format('woff'),
+				 url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype'),
+				 url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.svg#LigatureSymbols') format('svg');
+			src: url('https://github.com/kudakurage/LigatureSymbols/raw/master/LigatureSymbols.ttf') format('truetype');
+			font-weight: normal;
+			font-style: normal;
+			}
 		footer ul li {
 			font-family: 'LigatureSymbols';
 			text-rendering: optimizeLegibility;
