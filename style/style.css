@@ -36,6 +36,7 @@ div {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 7.5rem;
+/* 	background: url(fonts/LigatureSymbols/LigatureSymbols.png); */
 }
 
 
@@ -96,7 +97,7 @@ p.call-to-action {
 footer {
 	background-color: rgb(208,208,100);
 	font-weight: bold;
-	height: 7.2rem;
+	height: 7.4rem;
 	text-align: center;
 	vertical-align: middle;
 	}
@@ -122,12 +123,12 @@ footer {
 			}
 		@font-face {
 			font-family: 'LigatureSymbols';
-			src: url('/style/fonts/LigatureSymbols/LigatureSymbols-2.11.eot');
-			src: url('/style/fonts/LigatureSymbols/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
-				 url('/style/fonts/LigatureSymbols/LigatureSymbols.woff') format('woff'),
-				 url('/style/fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype'),
-				 url('/style/fonts/LigatureSymbols/LigatureSymbols.svg#LigatureSymbols') format('svg');
-			src: url('/style/fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype');
+			src: url('fonts/LigatureSymbols/LigatureSymbols-2.11.eot');
+			src: url('fonts/LigatureSymbols/LigatureSymbols-2.11.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/LigatureSymbols/LigatureSymbols-2.11.woff') format('woff'),
+				 url('fonts/LigatureSymbols/LigatureSymbols-2.11.ttf') format('truetype'),
+				 url('fonts/LigatureSymbols/LigatureSymbols-2.11.svg#LigatureSymbols') format('svg');
+			src: url('fonts/LigatureSymbols/LigatureSymbols-2.11.ttf') format('truetype');
 			font-weight: normal;
 			font-style:  normal;
 			}
