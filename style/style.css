@@ -122,12 +122,12 @@ footer {
 			}
 		@font-face {
 			font-family: 'LigatureSymbols';
-			src: url('/fonts/LigatureSymbols/LigatureSymbols-2.11.eot');
-			src: url('/fonts/LigatureSymbols/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
-				 url('/fonts/LigatureSymbols/LigatureSymbols.woff') format('woff'),
-				 url('/fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype'),
-				 url('/fonts/LigatureSymbols/LigatureSymbols.svg#LigatureSymbols') format('svg');
-			src: url('/fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype');
+			src: url('fonts/LigatureSymbols/LigatureSymbols-2.11.eot');
+			src: url('fonts/LigatureSymbols/LigatureSymbols.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/LigatureSymbols/LigatureSymbols.woff') format('woff'),
+				 url('fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype'),
+				 url('fonts/LigatureSymbols/LigatureSymbols.svg#LigatureSymbols') format('svg');
+			src: url('fonts/LigatureSymbols/LigatureSymbols.ttf') format('truetype');
 			font-weight: normal;
 			font-style:  normal;
 			}
