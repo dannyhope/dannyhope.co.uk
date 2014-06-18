@@ -106,21 +106,6 @@ footer {
 		padding: 0;
 		margin: 0;
 		}
-	footer a,
-	footer a:visited {
-		color: rgb(251,255,129);
-		font-weight: 500;
-		letter-spacing: 0.05rem;
-		text-decoration: none;
-		}
-		footer a:hover {
-			position: relative;
-			top: -1px;
-			color: white;
-			}
-		footer a:active {
-			top: 0;
-			}
 		@font-face {
 			font-family: 'LigatureSymbols';
 			src: url('fonts/LigatureSymbols/LigatureSymbols-2.11.eot');
@@ -152,6 +137,22 @@ footer {
 			display: inline;
 			font-size: 3.4rem;
 			padding: 0rem 0.5rem;
+			padding: 0rem 1rem;
+			}
+	footer ul li a,
+	footer ul li a:visited {
+		color: rgb(251,255,129);
+		font-weight: 500;
+		letter-spacing: 0.05rem;
+		text-decoration: none;
+		}
+		footer ul li a:hover {
+			position: relative;
+			top: -1px;
+			color: white;
+			}
+		footer ul li a:active {
+			top: 0;
 			}
 			footer ul li.mobile {
 				display: none;
