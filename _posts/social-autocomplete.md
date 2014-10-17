@@ -18,7 +18,7 @@
 - less need to memorise syntax
 - all of the benefits of autocomplete
 - sharing code
-- standarsised code
+- standardised code
 
 ## How it works
 
@@ -30,7 +30,7 @@ Metadata is created and stored with the code
 
 - people usually replace code like that with code like this
 - see how many people used this code
-- see whats trending
+- see what's trending
 - private code is available as snippets for just me
 - group code is available as snippets to the group
 - start suggestions

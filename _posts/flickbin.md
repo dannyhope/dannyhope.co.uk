@@ -1,4 +1,6 @@
-from research
+Idea created from research
 
-noui
-no affoardances
+
+
+No UI
+No affoardances
