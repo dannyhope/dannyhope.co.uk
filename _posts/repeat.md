@@ -1,5 +1,3 @@
----
----
 # Repeat
 
 Aids long term memory by repeatedly offering items from your browsing history.
