@@ -1,0 +1,8 @@
+- make clear the context of the project
+- describe the business need and how you met it
+- describe the project team
+- say why you did what you did
+- show soft skills and hard skills
+- discuss a complex UX problem
+- mention key insights (that came from research or knowledge or whatever)
+- show photos of workshops, artifacts etc
