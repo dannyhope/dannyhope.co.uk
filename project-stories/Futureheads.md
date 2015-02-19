@@ -1,5 +1,0 @@
-Chris
-
-John
-Andrew
-David
