@@ -1,4 +1,4 @@
-Templates at uxbri
-Hypercard at ux camp
-Hypercard at IxDA London
-Apple and design at IxDA London
+- Templates at uxbri
+- Hypercard at ux camp
+- Hypercard at IxDA London
+- Apple and design at IxDA London
