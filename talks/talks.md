@@ -1,4 +1,4 @@
 - Templates at uxbri
 - Hypercard at ux camp
-- Hypercard at IxDA London
+- [Hypercard Show & Tell at IxDA London](http://www.meetup.com/IxDA-London/events/139324102/ "details of this event on meetup.com")
 - Apple and design at IxDA London
