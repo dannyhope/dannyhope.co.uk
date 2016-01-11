@@ -81,7 +81,7 @@ What events are people attending?
 - Fashion and Textile Museum
 
 ### Walk
-- http://www.walkingclub.org.uk/book_3/walk_198/index.shtml
+- [Walking club](http://www.walkingclub.org.uk/book_3/walk_198/index.shtml "")
 - [Sussex walks accessible by bus or train](https://www.google.co.uk/search?q=sussex%20walks%20accessible%20by%20bus%20or%20train "")
 - [Wetlands Wood](https://www.google.co.uk/search?q=wetlands+wood+sussex&hl=en&safe=off&prmd=imvns&source=lnms&tbm=isch&ei=ybizT8beGsrA0QW29LjDAw&sa=X&oi=mode_link&ct=mode&cd=2&ved=0CBoQ_AUoAQ&biw=1151&bih=963 "")
 - Hayward's Heath, south, west (Nymans Woods)
