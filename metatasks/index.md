@@ -1,6 +1,3 @@
----
----
-
 ## Make
 
 ### Draw
@@ -182,3 +179,5 @@ Uncategorised
 - [add to testimonials](https://docs.google.com/View?docid=ajdr6rcbjv68_72dcbmx4&revision=_latest "")
 - talk [[Talk ideas]]
 - context suggester app (this list)
+- [CRM (in Google Docs)](https://docs.google.com/document/d/1Q2o-yBbhA3YzxCZ77S8fh-rUQMuP-rYsLFroWPZHDZM/edit "")
+- search for "[starting point](https://drive.google.com/drive/u/0/#search?q=starting%20point "")" in Google Drive
