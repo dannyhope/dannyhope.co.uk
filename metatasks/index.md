@@ -1,3 +1,5 @@
+[Edit this page](https://github.com/dannyhope/dannyhope.co.uk/edit/gh-pages/metatasks/index.md "")
+
 ## Make
 
 ### Draw
