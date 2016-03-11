@@ -27,6 +27,7 @@
 - Spag bol
 
 ## Improve
+- [UX Brighton issues](https://waffle.io/dannyhope/uxbrighton "")
 - personal timeline
 - portfolio
 - update LinkedIn
