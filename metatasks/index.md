@@ -13,6 +13,7 @@
 ### Photo
 - Make some photos public https://www.flickr.com/cameraroll
 - go out and take pics (until something clicks)
+- make some pics of Elliott F+F
 
 ### Carpentry
 - See list in workshop
