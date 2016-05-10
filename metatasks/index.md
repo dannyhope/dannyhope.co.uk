@@ -181,3 +181,4 @@ Uncategorised
 - context suggester app (this list)
 - [CRM (in Google Docs)](https://docs.google.com/document/d/1Q2o-yBbhA3YzxCZ77S8fh-rUQMuP-rYsLFroWPZHDZM/edit "")
 - search for "[starting point](https://drive.google.com/drive/u/0/#search?q=starting%20point "")" in Google Drive
+- ["Someday" email](https://inbox.google.com/snoozed?pli=1 "")
