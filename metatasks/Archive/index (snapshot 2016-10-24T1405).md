@@ -37,8 +37,8 @@
 - projects list
 - [Check my bio everywhere](https://docs.google.com/document/d/1h7QU9ywLOwLYZVMVzFmkMi3Nnv291rOJIovg3JERTds/edit#heading=h.8tgyg0y3lddp "")
 
-### Home
-- paint windowsil near sink
+### Paint bits of the house
+- Windowsil near sink
 
 ### Photo
 - upload from iPhoto
@@ -172,7 +172,7 @@ flag and name images for uploading
 ## mood.tired
 - wash clothes
  
-## person(nick).location(!brighton)
+## person.nick.location.not(brighton)
 - [Get stuff from RTH](https://docs.google.com/Doc?id=ajdr6rcbjv68_287dfn54bgs "")
 
 ## Bored
