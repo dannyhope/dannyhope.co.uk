@@ -1,0 +1,35 @@
+<svg width="40" height="40" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Danny-Hope-icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(104 465)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -104 -465L -64 -465L -64 -425L -104 -425L -104 -465Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Danny-Hope-icon" clip-path="url(#clip-0)">
+<g id="Intersect">
+<use xlink:href="#path0_fill" transform="translate(-104 -465)" fill="#FFF8A3"/>
+</g>
+<g id="Intersect">
+<use xlink:href="#path0_fill" transform="translate(-104 -465)" fill="url(#paint1_linear)" fill-opacity="0.4"/>
+</g>
+<g id="Curl-shade-tick">
+<use xlink:href="#path1_fill" transform="translate(-72.9182 -456.394)" fill="#000000" fill-opacity="0.8"/>
+</g>
+<g id="DH">
+<use xlink:href="#path2_fill" transform="translate(-93.5312 -450)" fill="#000000" fill-opacity="0.8"/>
+<use xlink:href="#path3_fill" transform="translate(-93.5312 -450)" fill="#000000" fill-opacity="0.8"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-27.6563 40 -40 -27.6563 47.6562 13.8281)">
+<stop offset="0" stop-color="#FFD046"/>
+<stop offset="0.154705" stop-color="#FFDF46" stop-opacity="0.495376"/>
+<stop offset="0.491713" stop-color="#FFDF46" stop-opacity="0"/>
+</linearGradient>
+<path id="path0_fill" d="M 0 0L 0 40L 39.9916 40L 40 8.60595L 27.3657 0L 0 0Z"/>
+<path id="path1_fill" d="M 0 0.720787L 0.675917 4.76074L 8.91821 0L 0.939064 3.07765L 0 0.720787Z"/>
+<path id="path2_fill" d="M 2.2447 8.40599L 2.2447 1.90651L 3.84601 1.90651C 4.39884 1.90651 4.86112 1.98836 5.23286 2.15205C 5.61412 2.30611 5.91913 2.53239 6.14789 2.83088C 6.37665 3.12938 6.53869 3.49046 6.634 3.91413C 6.73885 4.32817 6.79128 4.79517 6.79128 5.31513C 6.79128 5.88323 6.71979 6.36467 6.57681 6.75945C 6.43384 7.15424 6.24321 7.4768 6.00492 7.72715C 5.76663 7.96787 5.49498 8.14119 5.18996 8.24711C 4.88495 8.35303 4.57041 8.40599 4.24633 8.40599L 2.2447 8.40599ZM 0 0L 0 10.3125L 4.40361 10.3125C 5.1852 10.3125 5.86194 10.1825 6.43384 9.92253C 7.01527 9.65292 7.49661 9.28703 7.87788 8.82484C 8.26868 8.36266 8.55939 7.81381 8.75002 7.17831C 8.94065 6.5428 9.03597 5.84953 9.03597 5.09848C 9.03597 4.24151 8.91683 3.49527 8.67853 2.85977C 8.44978 2.22426 8.1257 1.69468 7.70631 1.27101C 7.29645 0.847339 6.80557 0.529587 6.23368 0.317752C 5.67131 0.105918 5.06129 0 4.40361 0L 0 0Z"/>
+<path id="path3_fill" d="M 10.5974 0L 10.5974 10.3125L 12.8421 10.3125L 12.8421 5.86397L 16.9741 5.86397L 16.9741 10.3125L 19.2188 10.3125L 19.2188 0L 16.9741 0L 16.9741 3.95746L 12.8421 3.95746L 12.8421 0L 10.5974 0Z"/>
+</defs>
+</svg>
