@@ -17,6 +17,7 @@
 
 ### Carpentry
 - See list in workshop
+- Carve letters out of wood
  
 ### Cook for freezing
 - tomato sauce
