@@ -14,6 +14,7 @@
 - Make some photos public https://www.flickr.com/cameraroll
 - go out and take pics (until something clicks)
 - make some pics of Elliott F+F
+- Albumize B&W pics: May 26, 2017 – June 27, 2015
 
 ### Carpentry
 - See list in workshop
