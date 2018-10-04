@@ -1,4 +1,10 @@
+<section style="color: red; font-weight: bold;">
+
 [Edit this page](https://github.com/dannyhope/dannyhope.co.uk/edit/gh-pages/metatasks/index.md "")
+
+Some moved to my [recurring tasks spreadsheet](https://docs.google.com/spreadsheets/d/1i4SFH8v5Nr3WHkKaGWEZzlGrec_bLf4paZnEvwsqLWU/edit#gid=0 ).
+
+</section>
 
 ## Make
 
@@ -11,10 +17,7 @@
 - 3D Model everything on my desk
 
 ### Photo
-- Make some photos public https://www.flickr.com/cameraroll
 - go out and take pics (until something clicks)
-- make some pics of Elliott F+F
-- Albumize B&W pics: May 26, 2017 – June 27, 2015
 
 ### Carpentry
 - See list in workshop
@@ -22,40 +25,20 @@
  
 ### Cook for freezing
 - tomato sauce
-- stew
 - lasagne
 - hunters chicken
 - chilli
 - chicken tikka
-- Spag bol
 
 ## Improve
-- [UX Brighton issues](https://waffle.io/dannyhope/uxbrighton "")
-- personal timeline
-- portfolio
-- update LinkedIn
-- Jettison Something
-- https://unroll.me/a/rollup/edit
-- projects list
-- [Check my bio everywhere](https://docs.google.com/document/d/1h7QU9ywLOwLYZVMVzFmkMi3Nnv291rOJIovg3JERTds/edit#heading=h.8tgyg0y3lddp "")
-
-### Home
-- paint windowsil near sink
 
 ### Photo
-- upload from iPhoto
-- [add tags](http://www.flickr.com/photos/organize/ "")
-- [add titles](http://www.flickr.com/search/?q=DSC&w=13316988%40N00&z=t&s=rec "")
 - add [UX pics to](http://www.flickr.com/search/?w=13316988%40N00&q=wireframe+OR+usability+OR+interface+OR+GUI+OR+users+OR+design&m=text "") to
 	- groups
 	- [I ♥ wireframes](http://www.flickr.com/groups/ilovewireframes/ "")
 	- [UX Sketches](http://www.flickr.com/groups/uxsketch/ "")
 	- [User Interface Review](http://www.flickr.com/groups/uireview/ "")
 	- [etc](http://www.flickr.com/photos/gersonmora/4546766344/in/pool-35237094923@01 "")
-UX Brighton überlist http://spreadsheets.google.com/ccc?key=0AuJrhF0oRyeRcnVFTy0tbnotMzZ1MTNCYk5XaTVuZlE&hl=en&pli=1
-Move Delicious/toread into Instapaper http://del.icio.us/danny.hope/toread
-Process receipts
-What events are people attending?
 
 ## learn
 ### read
@@ -65,26 +48,11 @@ What events are people attending?
 - Papers UPA
 - audiobooks
 
-### Watch
-- [Delicious to watch](http://delicious.com/danny.hope/towatch "")
-- [how the mind works TED](http://www.ted.com/themes/how_the_mind_works.html "")
-- [500 storyboard tutorial resources](http://filmmakeriq.com/2010/10/500-storyboard-tutorials-resources/ "")
-- [Microsoft Vision Research](http://research.microsoft.com/en-us/groups/vision/ "")
-- [IxDA library](http://library.ixda.org/ "")
-- [Design for big data etc](http://www.adaptivepath.com/blog/2009/04/21/designing-for-big-data-bigger-data-multitouch-and-more/ "")
-- [Psych exchange](http://www.psychexchange.co.uk/videos/ "")
-- [Karl Fast: is interaction necessary?](http://boxesandarrows.com/files/banda/ia-summit-09-day-2/Karl_Fast.m4a "")
-- [Collaborative consumption](http://www.wired.co.uk/news/archive/2011-10/13/rachel-botsman-wired-11 "")
-- [Customer Care Words seminar](http://www.customercarewords.com/webinar-previous.html "")
-- [Programming](http://www.flickr.com/photos/natalia_buckley/8255135074/in/photostream "")
-
 ## with.jess
 ### London
 - National Gallery & Le Gavroche
 - Design Museum
 - [London activities on Culture24](http://www.culture24.org.uk/places+to+go/london "")
-- Kew
-- Fashion and Textile Museum
 
 ### Walk
 - [Walking club](http://www.walkingclub.org.uk/book_3/walk_198/index.shtml "")
@@ -116,7 +84,7 @@ What events are people attending?
 - [blacksmithing course](http://www.chalkpitforge.co.uk/Blacksmith-Courses "")
 - strip radiator
 
-### Holiday
+### [Travel bookmarks](https://pinboard.in/u:danny.hope/t:travel )
 - safari
 - Barbados (not Jamaica!)
 - Bahamas
@@ -128,10 +96,10 @@ What events are people attending?
 - Venezuela
 - Hawaii
 - Kerala India
-- [del.icio.us/danny.hope/travel](del.icio.us/danny.hope/travel "")
 
 ## activity.walk
 - listen to audiobooks
+- listen to podcasts
 
 ## activity.washing-up
 - [Youtube lean back](https://youtube.com/tv#/browse-sets?c=VLWL "")
@@ -140,28 +108,13 @@ What events are people attending?
 - videos app
 
 ## activity.trainjourney
-environment:train, @:mode-of-transport:train
+ - environment:train, @:mode-of-transport:train
 
-## @home
-scan photos and drawings
-
-## facility.not(web)
-flag and name images for uploading
-- scan old photos
-
-## mood.relaxing
-- [iPlayer](http://www.bbc.co.uk/iplayer/categories/comedy/tv "")
-- 4od
-- [TV Catchup](http://tvcatchup.com "")
-- [Youtube food etc](http://www.youtube.com/shows/food?feature=sh_b_gen_fd&pt=g&l=en "")
-- IMDB watch later list
-- Listen to stuff on volumes: 32GB and HDs
-
-## mood.active
+## ~active
 - bike
 - walk
 
-## mood.pesimistic
+## ~pesimistic
 - plan trips (abroad, IOW, Devon etc) in calendar
 - coffee with peers
 - create
@@ -171,18 +124,17 @@ flag and name images for uploading
 - long walk
 - meet Pub people → "People to meet/invite tot he pub.txt"
 
-## mood.tired
+## ~tired
 - wash clothes
  
 ## person(nick).location(!brighton)
 - [Get stuff from RTH](https://docs.google.com/Doc?id=ajdr6rcbjv68_287dfn54bgs "")
 
-## Bored
+## ~Bored
 - [Khan Academy](http://www.khanacademy.org/exercisedashboard "")
 
 Uncategorised
 -----------------
-- [add to testimonials](https://docs.google.com/View?docid=ajdr6rcbjv68_72dcbmx4&revision=_latest "")
 - talk [[Talk ideas]]
 - context suggester app (this list)
 - [CRM (in Google Docs)](https://docs.google.com/document/d/1Q2o-yBbhA3YzxCZ77S8fh-rUQMuP-rYsLFroWPZHDZM/edit "")
