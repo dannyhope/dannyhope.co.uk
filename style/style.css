@@ -84,6 +84,7 @@ p.call-to-action {
 	text-align: center;
 	margin-bottom: 7rem;
 	color: rgba(0,0,0,0.7);
+	padding: 0px 7rem;
 	}
 	p.call-to-action a {
 		color: rgba(0,0,0,0.8);
